@@ -1,57 +1,62 @@
-# Solomon Dada
+# CABOS AI
 
-### AI & Creative Technology Builder | Web Creator | AI Video Creator | Cybersecurity Learner
+## Cyber African Based Operating System
 
-Welcome to my GitHub.
+CABOS is a technology and creative innovation project focused on building practical digital solutions using Artificial Intelligence, web technologies, automation, cybersecurity, and creative media.
 
-I am a Nigerian digital creator and technology learner building practical projects with artificial intelligence, web technologies and creative tools.
+### About Me
 
-## 🚀 What I'm Building
+I am **Solomon Dada**, a Nigerian digital creator and technology learner passionate about Artificial Intelligence, web development, cybersecurity, and creative technology.
 
-### CABOS AI
-An AI-powered creative and automotive technology concept designed to help people:
+I use modern AI tools to turn ideas into practical projects, digital experiences, websites, images, and videos.
 
-- Create images and videos with AI
-- Build websites and digital solutions
-- Get assistance with automotive problems
-- Explore creative ideas and stories
-- Develop practical technology solutions
+### What I'm Building
 
-## 🛠️ Skills & Tools
+**CABOS AI — Cyber African Based Operating System**
 
-- HTML
-- CSS
-- JavaScript
-- AI-assisted development
-- AI image & video creation
-- Website development
-- Git & GitHub
-- Gemini
-- ChatGPT
-- Cybersecurity — currently learning
-
-## 🔧 Featured Project
-
-**CABOS-TAN**  
-A web project connected to my broader CABOS technology vision.
-
-## 🎯 Current Focus
-
-I'm continuously learning and building in:
+My vision is to develop an African-focused technology ecosystem that combines:
 
 - Artificial Intelligence
-- Web Development
-- Creative Technology
+- Web development
 - Cybersecurity
-- Digital Content Creation
+- Digital creativity
+- Automation
+- Automotive technology
+- AI-generated images and videos
+- Practical digital solutions
 
-## 🌍 About Me
+### Current Skills & Tools
 
-Based in Nigeria, I enjoy turning ideas into practical digital projects and using technology to solve real-world problems.
+- AI-assisted development
+- ChatGPT
+- Google Gemini
+- AI image and video creation
+- HTML, CSS and JavaScript
+- Website creation
+- Creative content production
+- Automotive technology
+- Cybersecurity — currently learning
 
-**Building ideas. Learning continuously. Creating the future.**
+### Projects
+
+**CABOS AI**
+An evolving AI and technology project exploring creative tools, digital solutions, automation, and African-focused innovation.
+
+**CABOSng.com**
+My personal technology and creative portfolio.
+
+### Goals
+
+I am continuously learning and building practical projects while developing my skills in AI, software, cybersecurity, and digital technology.
+
+### Connect With Me
+
+- GitHub: https://github.com/godsolomo
+- Portfolio: https://CABOSng.com
+- TikTok: @cabosvirtual
 
 ---
 
-📌 GitHub: https://github.com/godsolomo  
-🌐 CABOS: https://CABOSng.com
+**Building ideas. Learning technology. Creating the future.**
+
+**CABOS — Cyber African Based Operating System**
